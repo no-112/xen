@@ -26,28 +26,49 @@ http://wiki.xen.org/
 What is this fork?
 ==================
 
-This fork of Xen (http://www.xen.org/) is a build ported to the PowerPC Architecture, focusing on Power9 primarily, while also supporting Power6, Power7, Power8, and partial support for PowerPC 970, 970FX, 970GX, and 970MP based computers (Commonly known as the Power G5, or Mac G5). Currently, development is being performed on a Power Mac G5 machine, and using a Blackbird SD1 generously provided by Raptor Computing Systems (https://www.raptorcs.com/) as a target. The secondary target is a Power 520 Express using a Power6 based CPU, as this is the only other PowerPC based system I have access to other than older Apple Macs.
+This fork of Xen (http://www.xen.org/) is a build ported to the 
+PowerPC Architecture, focusing on Power9 primarily, while also 
+supporting Power6, Power7, Power8, and partial support for PowerPC 
+970, 970FX, 970GX, and 970MP based computers (Commonly known as the
+Power G5, or Mac G5). Currently, development is being performed on
+a Power Mac G5 machine, and using a Blackbird SD1 generously provided
+by Raptor Computing Systems (https://www.raptorcs.com/) as a target.
+The secondary target is a Power 520 Express using a Power6 based CPU,
+as this is the only other PowerPC based system I have access to other
+than older Apple Macs.
 
 Why port Xen to PowerPC?
 ========================
 
-Xen is known as one of the best hypervisors out there. It is propelled forward by outstanding support, service, and reliability. My decision to begin this port is based on both my love for the PowerPC ISA, and for my love of both Xen and VM's in general. Porting Xen to PPC is both an econimical decision (Having such a well supported hypervisor on the Power9 system will generate more widespread adoption of the systems), and a service to the community I know and love.
+Xen is known as one of the best hypervisors out there. It is propelled
+forward by outstanding support, service, and reliability. My decision
+to begin this port is based on both my love for the PowerPC ISA, and
+for my love of both Xen and VM's in general. Porting Xen to PPC is both
+an econimical decision (Having such a well supported hypervisor on the
+Power9 system will generate more widespread adoption of the systems),
+and a service to the community I know and love.
 
 So, when will this be available to use?
 =======================================
 
-Good question. My plan is to have the base system operational and working on Power9 by March 2021. While that does seem a while away, it is the best I can do by myself with the time I can commit to the project, while also working.
+Good question. My plan is to have the base system operational and 
+working on Power9 by March 2021. While that does seem a while away,
+it is the best I can do by myself with the time I can commit to the 
+project, while also working.
 
 Any further questions:
 ======================
 
-For any further questions, please reach out to me either via email at davis123watts4@outlook.com, or via Discord at no#4880.
+For any further questions, please reach out to me either via email
+at davis123watts4@outlook.com, or via Discord at no#4880.
 
 
 Disclaimer:
 ===========
 
-Everything below this line was taken directly from the Xen README.MD. I own none of the following. I also own none of the original source code, and everything I change will be distributed as entirely free and open source.
+Everything below this line was taken directly from the Xen README file.
+I own none of the following. I also own none of the original source code,
+and everything I change will be distributed as entirely free and open source.
 
 
 Quick-Start Guide
