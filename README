@@ -26,9 +26,9 @@ http://wiki.xen.org/
 What is this fork?
 ==================
 
-This fork of Xen (http://www.xen.org/) is a build ported to the 
-PowerPC Architecture, focusing on Power9 primarily, while also 
-supporting Power6, Power7, Power8, and partial support for PowerPC 
+This fork of Xen (http://www.xen.org/) is a build to be ported to the 
+PowerPC Architecture, focusing primarily on Power9, while also aiming for
+support for Power6, Power7, Power8, and partial support for PowerPC 
 970, 970FX, 970GX, and 970MP based computers (Commonly known as the
 Power G5, or Mac G5). Currently, development is being performed on
 a Power Mac G5 machine, and using a Blackbird SD1 generously provided
