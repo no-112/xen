@@ -35,7 +35,7 @@ a Power Mac G5 machine, and using a Blackbird SD1 generously provided
 by Raptor Computing Systems (https://www.raptorcs.com/) as a target.
 The secondary target is a Power 520 Express using a Power6 based CPU,
 as this is the only other PowerPC based system I have access to other
-than older Apple Macs.
+than older Apple Mac computers.
 
 Why port Xen to PowerPC?
 ========================
