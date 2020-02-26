@@ -40,7 +40,7 @@ than older Apple Mac computers.
 Why port Xen to PowerPC?
 ========================
 
-Xen is known as one of the best hypervisors out there. It is propelled
+Xen is commonly known as one of the best hypervisors out there. It is propelled
 forward by outstanding support, service, and reliability. My decision
 to begin this port is based on both my love for the PowerPC ISA, and
 for my love of both Xen and VM's in general. Porting Xen to PPC is both
